@@ -1,5 +1,5 @@
 #profile-update-interval: 3
-#profile-title: by karoshi - 24.03.2026/0:33
+#profile-title: karoshi - 24.03.26/0:33
 vless://001a44d7-69e6-07d0-8d11-828fe2119621@89.208.229.14:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=qq&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=anti-vpn.ru#%F0%9F%8C%90%20Anycast-IP%20%5B*CIDR%5D%20VK
 vless://f4a10d1d-adc1-4f68-a7f8-f2635c308f46@212.233.76.72:443?security=reality&encryption=none&pbk=-yJaCCGsucUDEnTTn6VJJyF0R5ZLlJAVNeIXFJYSGn8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vector.koexp.ru&sid=361c68748712c743#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%5B%D0%91%D0%B5%D0%BB%D1%8B%D0%B5%20%D0%A1%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%5D
 vless://a22f6494-f371-07d0-bad0-8df9594b8e45@109.120.188.27:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=qq&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=anti-vpn.ru#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%5B%D0%91%D0%B5%D0%BB%D1%8B%D0%B5%20%D0%A1%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%5D
