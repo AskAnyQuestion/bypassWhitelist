@@ -1,6 +1,6 @@
 #profile-update-interval: 1
 #profile-title: karoshi ≽^•⩊•^≼
-#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAwMTowOSB8IDI1LjAzLjIwMjYgKEdNVCszKQ==
+#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAwMToxMCB8IDI1LjAzLjIwMjYgKEdNVCszKQ==
 
 vless://179fbd03-0b0a-45ed-8f6d-3d947d861e5b@185.86.145.81:8443?encryption=none&type=xhttp&security=reality&host=max.ru&path=%2F&mode=stream-up&extra=null&fp=chrome&sni=max.ru&pbk=bapvm3XJ7mXk2IlyaK59UI_P-yr7LH03_X7_rNwzQy8&sid=dc&spx=%2F#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B%2ACIDR%5D%20VK
 vless://47a9c4df-f8a2-4717-89c5-64ce573711bf@185.86.145.81:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=xb9KcKGaTow3uwmazMdS-J-io9sonmVFmgef6MGZ4Wc&sid=10&spx=%2F#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B%2ACIDR%5D%20VK
