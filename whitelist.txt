@@ -1,7 +1,6 @@
 #profile-update-interval: 1
-#profile-title: karoshi 🐈‍
-#announce: base64:TGFzdCBVcGRhdGU6IDI0LjAzLjIwMjYgMjE6MDY=
-
+#profile-title: karoshi ≽^•⩊•^≼
+#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAyNC4wMy4yMDI2IDIxOjMx
 vless://40759e42-d74b-4470-acc4-a580f264e860@109.120.190.97:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=ios&sni=eh.vk.com&pbk=_KUQD98lqozi3En83ZxTPOeIJQMYVFysD2v1udDGqFU#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B%2ACIDR%5D%20VK
 vless://40759e42-d74b-4470-acc4-a580f264e860@109.120.190.97:80?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=eh.vk.com&pbk=_KUQD98lqozi3En83ZxTPOeIJQMYVFysD2v1udDGqFU#%F0%9F%87%AD%F0%9F%87%B7%20Croatia%20%5B%2ACIDR%5D%20VK
 vless://243203a9-77f5-4f55-b0b0-5f4ca08d3b1a@83.166.248.73:9887?type=tcp&security=none#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%5B%2ACIDR%5D%20VK
