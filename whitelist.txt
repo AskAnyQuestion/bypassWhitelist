@@ -1,6 +1,6 @@
 #profile-update-interval: 1
 #profile-title: karoshi ≽^•⩊•^≼
-#announce: base64:z+7x6+Xk7eXlIO7h7e7i6+Xt6OU6IDIwOjA2IHwgMjYuMDMuMjAyNiAoR01UKzMp
+#announce: base64:z+7x6+Xk7eXlIO7h7e7i6+Xt6OU6IDIwOjE2IHwgMjYuMDMuMjAyNiAoR01UKzMp
 
 vless://3bf5d29c-d391-0bb8-b9f7-29ebafbc9edc@109.120.191.184:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20VK
 vless://e928d85d-f223-0bb8-a1d2-a56e9fbd50e0@5.188.141.137:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=ads.x5.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20VK
