@@ -1,6 +1,6 @@
 #profile-update-interval: 1
 #profile-title: karoshi ≽^•⩊•^≼
-#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAyMjozMCB8IDI2LjAzLjIwMjYgKEdNVCszKQ==
+#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAyMzozMCB8IDI2LjAzLjIwMjYgKEdNVCszKQ==
 
 vless://c55ed835-16c5-0008-8759-78ac2cc7ac18@tlc.convert24.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=HFlu11M_xqBayi6pD2ZyC30VobHLofr4JpndMGC6OjI&sid=0d3c8408d1c8fecb&sni=convert24.ru#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B%2ACIDR%5D%20VK
 vless://d94c01f9-a0da-49f1-85ff-bebcec57cea6@51.250.65.27:443?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=eh.vk.com&pbk=31Qx8h30RS_NQxmxdGZJwrDR0yOerZ_ZIrntrzUTwxI&sid=7473080bbd&spx=%2F#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
