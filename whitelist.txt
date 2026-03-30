@@ -1,6 +1,6 @@
 #profile-update-interval: 1
 #profile-title: karoshi ≽^•⩊•^≼
-#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAwNDoxMiB8IDMwLjAzLjIwMjYgKEdNVCszKQ==
+#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAwNTowNiB8IDMwLjAzLjIwMjYgKEdNVCszKQ==
 
 vless://3e7e5a5b-2c9d-433c-9e9d-4b0b05afad54@www.mylittleponyblog.top:443?type=tcp&security=reality&fp=chrome&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&sid=8bd29483ded126b4&sni=wikihow.com&path=&host=#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20VK
 vless://86b4d8c5-3830-42df-8764-a3d8e8439bbd@most-kl.harknmav.fun:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&pbk=nPcXUDCqEWg5qfSXaSVa_8nuszqZPX3xuVz80HhUgQo&sid=4e732b0d4d15e0f9#%F0%9F%87%A7%F0%9F%87%BE%20Belarus%20%5B%2ACIDR%5D%20VK
