@@ -1,6 +1,6 @@
 #profile-update-interval: 1
 #profile-title: karoshi ≽^•⩊•^≼
-#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAwMjowMCB8IDMwLjAzLjIwMjYgKEdNVCszKQ==
+#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAwMzowNiB8IDMwLjAzLjIwMjYgKEdNVCszKQ==
 
 vless://6a514530-db3d-4419-bf6c-8014d82e62e5@5.188.141.64:2443?security=reality&sni=hd.kinopoisk.ru&fp=chrome&pbk=3NmHIJgvcKftaW73LUSOJ-hhwlwdPa2Oiu5WUp9_J3A&sid=86b9a3edfb313fbc&type=grpc&serviceName=hd.kinopoisk.ru&packetEncoding=xudp&encryption=none#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20VK
 vless://6a514530-db3d-4419-bf6c-8014d82e62e5@89.208.229.122:2443?security=reality&sni=hd.kinopoisk.ru&fp=chrome&pbk=3NmHIJgvcKftaW73LUSOJ-hhwlwdPa2Oiu5WUp9_J3A&sid=ca8771012baeac76&type=grpc&serviceName=hd.kinopoisk.ru&packetEncoding=xudp&encryption=none#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20VK
