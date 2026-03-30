@@ -1,6 +1,6 @@
 #profile-update-interval: 1
 #profile-title: karoshi ≽^•⩊•^≼
-#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAxMTowNiB8IDMwLjAzLjIwMjYgKEdNVCszKQ==
+#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAxMToxMiB8IDMwLjAzLjIwMjYgKEdNVCszKQ==
 
 vless://3e7e5a5b-2c9d-433c-9e9d-4b0b05afad54@www.mylittleponyblog.top:443?type=tcp&security=reality&fp=chrome&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&sid=8bd29483ded126b4&sni=wikihow.com&path=&host=#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20VK
 vless://e928d85d-f223-0bb8-a1d2-a56e9fbd50e0@109.120.188.201:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20VK
