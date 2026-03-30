@@ -1,6 +1,6 @@
 #profile-update-interval: 1
 #profile-title: karoshi ≽^•⩊•^≼
-#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAxMDowNiB8IDMwLjAzLjIwMjYgKEdNVCszKQ==
+#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAxMDoxMiB8IDMwLjAzLjIwMjYgKEdNVCszKQ==
 
 vless://86b4d8c5-3830-42df-8764-a3d8e8439bbd@most-kl.harknmav.fun:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&pbk=nPcXUDCqEWg5qfSXaSVa_8nuszqZPX3xuVz80HhUgQo&sid=4e732b0d4d15e0f9#%F0%9F%87%A7%F0%9F%87%BE%20Belarus%20%5B%2ACIDR%5D%20VK
 vless://0d0a5a50-e18e-496d-8b33-517222872af0@83.166.232.140:9887?type=tcp&security=reality&flow=xtls-rprx-vision&sni=io.ozone.ru&pbk=im7-98zxWz_OGimQfeoN_Y5p1tAy8KoZCxOe2wOeWS4&fp=chrome&bx=/#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%5B%2ACIDR%5D%20VK
