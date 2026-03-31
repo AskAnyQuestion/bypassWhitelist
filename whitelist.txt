@@ -1,6 +1,6 @@
 #profile-update-interval: 1
 #profile-title: karoshi ≽^•⩊•^≼
-#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAxMjowMiB8IDMxLjAzLjIwMjYgKEdNVCszKQ==
+#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAxMzowMiB8IDMxLjAzLjIwMjYgKEdNVCszKQ==
 
 vless://6a514530-db3d-4419-bf6c-8014d82e62e5@5.188.141.64:6443?security=reality&sni=id.tbank.ru&fp=chrome&pbk=c9twzfeutmWVEDFMog4ghb12uy9KuL1PA8o0ZS0zBiE&sid=ed193c5a909871aa&type=grpc&serviceName=id.tbank.ru&packetEncoding=xudp&encryption=none#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20VK
 vless://2f7e7add-17c0-49d4-9f9f-32b4a6c8b265@37.139.41.181:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=qq&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&sid=6a608eaf9117&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%AA%20Georgia%20%5B%2ACIDR%5D%20VK
