@@ -1,6 +1,6 @@
 #profile-update-interval: 1
 #profile-title: karoshi ≽^•⩊•^≼
-#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAyMDowMiB8IDAxLjA0LjIwMjYgKEdNVCszKQ==
+#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAyMTowMiB8IDAxLjA0LjIwMjYgKEdNVCszKQ==
 
 vless://5e1d0981-0197-4105-8f16-53bcc245f8f3@kopl.whitevpn.sbs:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&security=reality&pbk=AKVwTarcKnFEPfsdVtlUOQ2G9pT3KloTomNtegy0Pnc&sid=dc4aa6635008a9ae&packetEncoding=xudp#%F0%9F%87%A7%F0%9F%87%BE%20Belarus%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
 vless://5e1d0981-0197-4105-8f16-53bcc245f8f3@stas.whitevpn.lol:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=qq&security=reality&pbk=X2GO2s0G5wRxrnKUaxIlOZsPVT4T6KFRo30TuNTZMRI&sid=dc4aa6635008a9ae&packetEncoding=xudp#%F0%9F%87%A7%F0%9F%87%BE%20Belarus%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
