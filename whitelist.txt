@@ -1,6 +1,6 @@
 #profile-update-interval: 1
 #profile-title: karoshi ≽^•⩊•^≼
-#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAwNjowMiB8IDAyLjA0LjIwMjYgKEdNVCszKQ==
+#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAwNzowMiB8IDAyLjA0LjIwMjYgKEdNVCszKQ==
 
 vless://d3cdd824-dbcd-4f1a-867c-a48ed62bf2fe@51.250.97.241:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=fwPoJ-DPqxIU5nLYhANH_h9nH110wLessSonYaRLk2Y&sid=70afe2eb#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%5B%2ACIDR%5D%20YA
 vless://0164ace4-be32-4f2e-9feb-b95034f202a9@51.250.43.26:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=wl-6.legendary-vpn.com&pbk=qnb7ady9T3Mz7lPfCS_NHnqpP1TP8elO6PfGtGuCLh0&sid=ce6afd4d73f15a92#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D%20YA
