@@ -1,6 +1,6 @@
 #profile-update-interval: 1
 #profile-title: karoshi ≽^•⩊•^≼
-#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAwMzowMiB8IDAyLjA0LjIwMjYgKEdNVCszKQ==
+#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAwNDowMiB8IDAyLjA0LjIwMjYgKEdNVCszKQ==
 
 vless://d3cdd824-dbcd-4f1a-867c-a48ed62bf2fe@51.250.97.241:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=fwPoJ-DPqxIU5nLYhANH_h9nH110wLessSonYaRLk2Y&sid=70afe2eb#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%5B%2ACIDR%5D%20YA
 vless://0490a6e4-27a9-425b-9d52-4c1ee715b11f@212.233.121.82:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=vkru10.enotfast.net&pbk=THxJyX4Gsf_upzu8gDgNMmlJWVkP56k4FQrPUhM5hmc&sid=12b4bc7ca90e01#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20VK
