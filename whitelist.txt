@@ -1,6 +1,6 @@
 #profile-update-interval: 1
 #profile-title: karoshi ≽^•⩊•^≼
-#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAyMjozNCB8IDAzLjA0LjIwMjYgKEdNVCszKQ==
+#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAyMzozNCB8IDAzLjA0LjIwMjYgKEdNVCszKQ==
 
 vless://c7b6f07d-a052-402a-b97c-69ec2d45afe2@109.120.188.50:2008?type=grpc&security=reality&encryption=none&fp=chrome&pbk=P0fQAbHaRJ6aF8yExwqISCB0ClTrGFhZe7hGDO8YnX4&sid=1413cc6a376b5257&sni=cloud.mail.ru&mode=multi&serviceName=cloud#%F0%9F%87%A8%F0%9F%87%BE%20Cyprus%20%5B%2ACIDR%5D%20VK
 vless://c7b6f07d-a052-402a-b97c-69ec2d45afe2@109.120.188.50:2009?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=Ej_PPr2iomuIl23svqB6FgWf2Sw6FMC6ipavO5w5OXY&sid=099755ac7b731e9e&sni=ir.ozone.ru#%F0%9F%87%A8%F0%9F%87%BE%20Cyprus%20%5B%2ACIDR%5D%20VK
