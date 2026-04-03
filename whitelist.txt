@@ -1,6 +1,6 @@
 #profile-update-interval: 1
 #profile-title: karoshi ≽^•⩊•^≼
-#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAxNzozNCB8IDAzLjA0LjIwMjYgKEdNVCszKQ==
+#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAxODozNCB8IDAzLjA0LjIwMjYgKEdNVCszKQ==
 
 vless://8b568fd9-cf78-443b-9b15-cc8e93d344d4@178.154.197.74:4443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=Pi7voR4EU0liQiBD8gBPbPRdO3gIxTUhcm01ZeasSVY&sid=a9d4e1f7b2c8635c&sni=ads.x5.ru&path=&host=#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20YA
 vless://abc99ac9-999d-48c2-9dec-003f09727880@fiv8t99ei34.country-31.de-nfast.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&sni=sun6-21.userapi.com#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D%20YA
