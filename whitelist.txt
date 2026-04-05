@@ -1,6 +1,6 @@
 #profile-update-interval: 1
 #profile-title: karoshi ≽^•⩊•^≼
-#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAwNTozNCB8IDA1LjA0LjIwMjYgKEdNVCszKQ==
+#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAwNjozNCB8IDA1LjA0LjIwMjYgKEdNVCszKQ==
 
 vless://197a0c0a-574d-497a-9e44-7bec185f8662@84.201.173.212:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IbBORC7a_sjJeYsjQl85KFsgh1GBEDZDsI5JsxeoaRQ&sid=b81e3a4f&sni=api-maps.yandex.ru#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%20%5B%2ACIDR%5D%20YA
 vless://4bce63fe-c66e-4986-bfba-462f36fff5cb@90.156.212.192:27111?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=zF51s3Rq32F0LEZ1Rz19IOc1JaVMX7BH6YMqBnV2CyQ&sni=www.cloudflare.com#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20VK
