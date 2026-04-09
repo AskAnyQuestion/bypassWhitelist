@@ -1,6 +1,6 @@
 #profile-update-interval: 1
 #profile-title: karoshi ≽^•⩊•^≼
-#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAwNzozNCB8IDA5LjA0LjIwMjYgKEdNVCszKQ==
+#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAwODozNCB8IDA5LjA0LjIwMjYgKEdNVCszKQ==
 
 vless://b59cf03c-704f-44b0-b329-d3443e860481@84.23.54.186:9887?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=random&pbk=im7-98zxWz_OGimQfeoN_Y5p1tAy8KoZCxOe2wOeWS4&sid=&sni=www.io.ozone.ru#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%5B%2ACIDR%5D%20VK
 vless://edd087d2-18b3-46fe-8924-4e5e6ce121c4@109.120.189.168:9444?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=rftiyvo63uNCmXSTv51lyDVCAmnID0YXRSD5R1IpvGc&sid=0123456789abcdef#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D%20VK
