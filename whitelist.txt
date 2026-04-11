@@ -1,6 +1,6 @@
 #profile-update-interval: 1
 #profile-title: karoshi ≽^•⩊•^≼
-#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAxMDozNCB8IDExLjA0LjIwMjYgKEdNVCszKQ==
+#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAxMTozNCB8IDExLjA0LjIwMjYgKEdNVCszKQ==
 
 vless://3d243df5-9cda-4aac-89d5-354de77d79e2@reserve.pilates.rodeo:2053?allowInsecure=1&alpn=http/1.1,h2&encryption=none&security=tls&serviceName=grpc&sni=nice.ducks.tel&type=grpc#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20YA
 vless://3d243df5-9cda-4aac-89d5-354de77d79e2@reserve.pilates.rodeo:2053?security=tls&type=grpc&mode=gun&serviceName=grpc&sni=nice.ducks.tel&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20YA
