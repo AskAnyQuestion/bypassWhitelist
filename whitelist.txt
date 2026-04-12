@@ -1,6 +1,6 @@
 #profile-update-interval: 1
 #profile-title: karoshi ≽^•⩊•^≼
-#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAwODozNCB8IDEyLjA0LjIwMjYgKEdNVCszKQ==
+#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAwOTozNCB8IDEyLjA0LjIwMjYgKEdNVCszKQ==
 
 vless://17f47d21-1837-4287-b6e7-e537274c41e4@158.160.231.132:443?encryption=none&fp=qq&mode=multi&pbk=9lryIkDCyHLzVsVJiGE4LFMuOHdzYDSTNJOFqGlpcl8&security=reality&sid=2901df419dc4e3ff&sni=static-mon.yandex.net&type=grpc&headerType=none#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%5B%2ACIDR%5D%20YA
 vless://17f47d21-1837-4287-b6e7-e537274c41e4@158.160.231.132:443?encryption=none&fp=qq&mode=multi&pbk=9lryIkDCyHLzVsVJiGE4LFMuOHdzYDSTNJOFqGlpcl8&security=reality&sid=97f74fa3a71adccc&sni=static-mon.yandex.net&type=grpc&headerType=none#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%5B%2ACIDR%5D%20YA
