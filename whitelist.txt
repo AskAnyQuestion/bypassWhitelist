@@ -1,6 +1,6 @@
 #profile-update-interval: 1
 #profile-title: karoshi ≽^•⩊•^≼
-#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAyMDozNCB8IDE0LjA0LjIwMjYgKEdNVCszKQ==
+#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAyMTozNCB8IDE0LjA0LjIwMjYgKEdNVCszKQ==
 
 vless://15ac114c-2a6b-4396-9d3b-c2ff54d44daf@51.250.43.193:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=kE4EZIN4WcOejRZGeNrzCuCZk22ebmMmq9YzOo1yC0k&sid=4e152b0d4d15e0f9#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B%2ACIDR%5D%20YA
 vless://2775ccda-65cc-4cfc-840a-37aa5888da08@51.250.43.193:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=kE4EZIN4WcOejRZGeNrzCuCZk22ebmMmq9YzOo1yC0k&sid=4e152b0d4d15e0f9#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B%2ACIDR%5D%20YA
