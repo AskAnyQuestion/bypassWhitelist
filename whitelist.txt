@@ -1,6 +1,6 @@
 #profile-update-interval: 1
 #profile-title: karoshi ≽^•⩊•^≼
-#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAwNTozNCB8IDE1LjA0LjIwMjYgKEdNVCszKQ==
+#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAwNjozNCB8IDE1LjA0LjIwMjYgKEdNVCszKQ==
 
 vless://52ca0d43-e64a-4127-a972-a15623886a06@158.160.237.0:6443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=praGYag8YPbz_rcd_Pa6Fqsi_IiQtO3e1AosYBcu6h4&sid=378086fbdb7c61cd#%F0%9F%87%A7%F0%9F%87%BE%20Belarus%20%5B%2ACIDR%5D%20YA
 vless://270c645a-b1cd-4f02-8a54-8ef7f2d357a6@78.159.247.192:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=rutube.ru&fp=chrome&security=reality&pbk=qNN5FLxKWQDraPW7whEPfKohzR4P_s98aDbg2A6lRWM&sid=76995499b21c0f&packetEncoding=xudp#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20Beeline
