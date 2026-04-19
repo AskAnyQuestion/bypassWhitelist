@@ -1,6 +1,6 @@
 #profile-update-interval: 1
 #profile-title: karoshi ≽^•⩊•^≼
-#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAwNDozNCB8IDE5LjA0LjIwMjYgKEdNVCszKQ==
+#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAwNTozNCB8IDE5LjA0LjIwMjYgKEdNVCszKQ==
 
 vless://0fb96e8c-edf3-4810-b0ee-d8adf7203da3@51.250.119.228:443?type=grpc&security=reality&encryption=none&fp=chrome&pbk=9yVrUROOKrCuWXaOIIN4aV7cxuS4NOEeSI372W1-VBU&sid=07741b3669e809e2&sni=megafon.ru&spx=/#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20YA
 vless://6a876f42-e674-4645-961e-eb72b9c10af4@51.250.119.228:443?allowinsecure=0&authority=&echfq=none&encryption=none&fp=chrome&mode=gun&pbk=9yVrUROOKrCuWXaOIIN4aV7cxuS4NOEeSI372W1-VBU&security=reality&serviceName=&sid=5f41c439c104&sni=event.yandex.ru&spx=%2F&type=grpc#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20YA
