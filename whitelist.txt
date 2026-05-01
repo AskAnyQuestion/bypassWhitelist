@@ -1,6 +1,6 @@
 #profile-update-interval: 1
 #profile-title: karoshi ≽^•⩊•^≼
-#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAxMDoyMSB8IDAxLjA1LjIwMjYgKEdNVCszKQ==
+#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAxMToyMSB8IDAxLjA1LjIwMjYgKEdNVCszKQ==
 
 vless://5074df4a-1b57-4417-9f9c-d055b420a6f3@84.201.158.227:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=api-maps.yandex.ru&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%5B%2ACIDR%5D%20YA
 vless://5074df4a-1b57-4417-9f9c-d055b420a6f3@84.201.158.227:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%5B%2ACIDR%5D%20YA
