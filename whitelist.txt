@@ -1,6 +1,6 @@
 #profile-update-interval: 1
 #profile-title: karoshi ≽^•⩊•^≼
-#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAwNjoxNSB8IDA2LjA1LjIwMjYgKEdNVCszKQ==
+#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAwNzoxNSB8IDA2LjA1LjIwMjYgKEdNVCszKQ==
 
 vless://c6c8a3b3-1d70-4aa0-ac9a-7c1f5846df5e@178.154.244.248:443?flow=xtls-rprx-vision&fp=chrome&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&security=reality&sid=d2c6d9f6e6e12bfe&sni=max.ru&type=tcp#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%5B%2ACIDR%5D%20YA
 vless://c6c8a3b3-1d70-4aa0-ac9a-7c1f5846df5e@178.154.244.248:8443?flow=xtls-rprx-vision&fp=chrome&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&security=reality&sid=d2c6d9f6e6e12bfe&sni=ads.x5.ru&type=tcp#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%5B%2ACIDR%5D%20YA
