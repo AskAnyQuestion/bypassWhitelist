@@ -1,6 +1,6 @@
 #profile-update-interval: 1
 #profile-title: karoshi ≽^•⩊•^≼
-#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAwODoxNSB8IDA3LjA1LjIwMjYgKEdNVCszKQ==
+#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAwOToxNSB8IDA3LjA1LjIwMjYgKEdNVCszKQ==
 
 vless://e0b41091-6152-438f-a53a-40a7a44c0d66@84.201.177.81:443?encryption=none&type=tcp&security=reality&pbk=5ELL4X0tLgwzFLWxEOLtCfYb39NiaLQnZPWKcTPEci4&sid=8d2faad1099c46&sni=max.ru&fp=chrome&alpn=http%25252F1.1&headerType=none#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20YA
 vless://e0b41091-6152-438f-a53a-40a7a44c0d66@84.201.177.81:443?type=tcp&security=reality&fp=chrome&pbk=5ELL4X0tLgwzFLWxEOLtCfYb39NiaLQnZPWKcTPEci4&sid=8d2faad1099c46&sni=max.ru&alpn=http/1.1#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20YA
