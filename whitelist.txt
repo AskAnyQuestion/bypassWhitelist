@@ -1,6 +1,6 @@
 #profile-update-interval: 1
 #profile-title: karoshi ≽^•⩊•^≼
-#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAxMjoxNSB8IDEwLjA1LjIwMjYgKEdNVCszKQ==
+#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAxMzoxNSB8IDEwLjA1LjIwMjYgKEdNVCszKQ==
 
 vless://0538b181-80b1-4f17-a048-c051ae22bc32@84.201.171.91:6443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=eh.vk.com&pbk=JCnvoBX8E2brxjn8OB1XUnTJ0jCvLgLbkyErIIjZYnA&sid=a1b2c3d4e5f6a7b8#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
 vless://e1d61036-c1d2-4632-b064-5e897ad83fd7@78.159.246.36:7443?encryption=none&type=grpc&security=reality&mode=multi&serviceName=grpc2&sni=vkvideo.ru&pbk=CF466523CTyWo8ekZMcVPHO18gOy4ODyKSWwusJVWVI&sid=5FA44664f6a566d3#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20Beeline
@@ -201,4 +201,4 @@ vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?encryption=none&ty
 vless://0eab3e6d-7202-40b4-9577-a01ef670a368@138.124.99.126:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ozon.ru&pbk=DtzDK8MLwfzqwHqvXWJ3IgBdP9IfylggM_RxbyPcjgI&sid=8a9d&spx=/#🇫🇮[openproxylist.com] vless-FI
 vless://fd2bfdd2-68eb-49b0-98ad-ed82f901edde@tr-1.illusion-vpn.ru:52000?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4Fs4rORU_bK5Nwy9qvmVw3dAxS91bIG5cQYOmXl7zDA&sid=3d67b0666a5e09a0&sni=ozon.ru&spx=/#🇸🇪[openproxylist.com] vless-SE
 vless://75356919-6ece-455c-ba7a-9f042a60d2c5@46.243.211.17:7000?encryption=none&type=ws&security=none&path=%2Fstream&host=market.yandex.ru#0336 - Unknown @CID_VPN
-vless://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443?path=%2Fpyzrgqws&security=tls&encryption=none&type=ws&sni=api.avito.ru#🌐سرور 17 | Ord-13| MTSRVRS
+vless://22fc4701-8c86-4d4f-a858-8f5921d83977@51.250.41.20:443?security=reality&encryption=none&pbk=Wo4XW_RPWDMoOvLYVpm3xaELpl6m8-pDQKR6fIg91VQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=a6a75cbb895d3446#canfingV2rayNG-72
