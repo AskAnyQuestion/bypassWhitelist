@@ -1,6 +1,6 @@
 #profile-update-interval: 1
 #profile-title: karoshi ≽^•⩊•^≼
-#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAwODoxNSB8IDExLjA1LjIwMjYgKEdNVCszKQ==
+#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAwOToxNSB8IDExLjA1LjIwMjYgKEdNVCszKQ==
 
 vless://39e282e0-5ae4-4ff4-8848-4b9346505c78@217.16.21.98:27472?security=reality&encryption=none&pbk=tfBYj32NRb7oc8lmVjr0nlote_rqpe_vd367HlcwxVs&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com&sid=b0#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%5B%2ACIDR%5D%20VK
 vless://8a563b6d-d66f-4fb7-a994-aa73f3f43514@84.201.139.114:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5oHKiTEb9_EUxj2vODi3EWCxhh7gXgFYDw4Sf6JYvEc&security=reality&sid=25&sni=ads.x5.ru&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B%2ACIDR%5D%20YA
