@@ -1,6 +1,6 @@
 #profile-update-interval: 1
 #profile-title: karoshi ≽^•⩊•^≼
-#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAyMToyNSB8IDE4LjA1LjIwMjYgKEdNVCszKQ==
+#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAyMjoyNSB8IDE4LjA1LjIwMjYgKEdNVCszKQ==
 
 vless://701bab46-9453-41e6-ad47-009aa3df47e9@194.226.169.189:443?allowInsecure=0&sni=stats.vk-portal.net&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#RU_speednode_0025
 vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?encryption=none&type=ws&security=tls&path=/stream/updates/b66b78d7/019dfd7f-0777-6283-7287-911777c3720f4&host=cdn.lovecrafty.link&fp=chrome&sni=cdn.tracker.yandex.net#🇳🇱[openproxylist.com] vless-NL
