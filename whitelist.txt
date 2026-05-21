@@ -1,6 +1,6 @@
 #profile-update-interval: 1
 #profile-title: karoshi ≽^•⩊•^≼
-#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAxNzo0NCB8IDIxLjA1LjIwMjYgKEdNVCszKQ==
+#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAxODo0NCB8IDIxLjA1LjIwMjYgKEdNVCszKQ==
 
 vless://efade98b-c29b-4a75-9d49-a4e4aca363c5@51.250.112.103:443?encryption=none&type=xhttp&security=reality&mode=auto&extra=null&fp=qq&sni=api-maps.yandex.ru&pbk=TnQwYOH2ATi0bTu3gnqVFDnEkvBYIcvNRGLPW0IpjXE#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
 vless://efff6a49-170a-4f62-b2bd-7498d8194648@84.201.178.146:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=QUnRixyje-dgsJOhOPoTQTm917fKLnBTJjU0C4qbl0s&sid=d00bd7f911bd&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20YA
