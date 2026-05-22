@@ -1,6 +1,6 @@
 #profile-update-interval: 1
 #profile-title: karoshi ≽^•⩊•^≼
-#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAxNzo0NCB8IDIyLjA1LjIwMjYgKEdNVCszKQ==
+#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAxODo0NCB8IDIyLjA1LjIwMjYgKEdNVCszKQ==
 
 vless://1ca9c6a5-3849-4c66-9950-30a643df940e@ru5.cleanersaz.help:443?encryption=none&fp=chrome&pbk=MUk2riQSJscTXhcWiy_1SSLFiPjsMne4w-yInUrDLjY&security=reality&serviceName=5post-gate.x5.ru&sid=aaaa&sni=5post-gate.x5.ru&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
 vless://5883c418-dccd-4b84-8257-13d791c3a413@84.201.141.152:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=api-maps.yandex.ru&pbk=xwusQ4IEWdYyuPLCc4LOA89P6HyQDNT7xo_75v2YW2I&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20YA
