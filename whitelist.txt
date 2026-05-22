@@ -1,6 +1,6 @@
 #profile-update-interval: 1
 #profile-title: karoshi ≽^•⩊•^≼
-#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAwNDo0NCB8IDIyLjA1LjIwMjYgKEdNVCszKQ==
+#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAwNTo0NCB8IDIyLjA1LjIwMjYgKEdNVCszKQ==
 
 vless://1ca9c6a5-3849-4c66-9950-30a643df940e@217.16.29.23:443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=5post-gate.x5.ru&fp=chrome&sni=5post-gate.x5.ru&pbk=MUk2riQSJscTXhcWiy_1SSLFiPjsMne4w-yInUrDLjY&sid=aaaa#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
 vless://1ca9c6a5-3849-4c66-9950-30a643df940e@ru5.cleanersaz.help:443?encryption=none&fp=chrome&pbk=MUk2riQSJscTXhcWiy_1SSLFiPjsMne4w-yInUrDLjY&security=reality&serviceName=5post-gate.x5.ru&sid=aaaa&sni=5post-gate.x5.ru&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
@@ -195,10 +195,10 @@ vless://2e89f88d-fbc0-47ce-bce3-c93e99a4e4f7@51.250.24.222:443?flow=xtls-rprx-vi
 vless://26e4d8b5-ee98-4a8d-88c9-7f81b7be3379@194.58.41.60:8443?allowInsecure=0&sni=eh.vk.com&flow=xtls-rprx-vision-udp443&fp=ios&security=tls#CZ_speednode_0001
 vless://aef7716a-d0a5-4a85-9cb0-fda41d9f34b0@109.172.54.70:2040?encryption=none&fp=chrome&pbk=b6DZwkKAeXf3wjXrL6iV6dTt1Crpv2o88LRDJRgFglE&security=reality&sid=b589db8f02882bae&sni=eh.vk.com&type=tcp#🇫🇮[openproxylist.com] vless-FI
 vless://75356919-6ece-455c-ba7a-9f042a60d2c5@46.243.211.17:7000?encryption=none&type=ws&security=none&path=%2Fstream&host=market.yandex.ru#0336 - Unknown @CID_VPN
-vless://22fc4701-8c86-4d4f-a858-8f5921d83977@51.250.41.20:443?security=reality&encryption=none&pbk=Wo4XW_RPWDMoOvLYVpm3xaELpl6m8-pDQKR6fIg91VQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=a6a75cbb895d3446#canfingV2rayNG-87
 vless://1ef15939-7ec4-427f-9d47-eed9ced4c96f@91.84.107.75:8443?security=reality&encryption=none&pbk=Cxvc5bVMKln6RxPs5MtviUZNDsmpfuYUK8UFBlcBaS0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=808e2d36726ee97e#🌐سرور 42 | Kho-01| MTSRVRS
 vless://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443?path=%2Fpyzrgqws&security=tls&encryption=none&type=ws&sni=api.avito.ru#🌐سرور 342 | Kho-01| MTSRVRS
 vless://d0dea598-9047-4567-a934-84c2797c0978@176.120.67.95:8443?security=reality&encryption=none&pbk=7HejPU15kdTl9QG_8AygEM3w0ythsbhG6q_SwUumyR0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ozon.ru&sid=f1071c148a5aefc4#🌐سرور 461 | Kho-01| MTSRVRS
 vless://86c8a690-9602-4d40-bbf7-156720de104f@89.169.162.214:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=c6ef72e4635d15a5#🌐سرور 544 | Kho-01| MTSRVRS
 vless://d0dea598-9047-4567-a934-84c2797c0978@176.120.67.77:8443?security=reality&encryption=none&pbk=7HejPU15kdTl9QG_8AygEM3w0ythsbhG6q_SwUumyR0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ozon.ru&sid=f1071c148a5aefc4#🌐سرور 965 | Kho-01| MTSRVRS
-vless://b198c7e4-b6a5-4309-ac0e-0783cf8b129c@193.168.197.76:2443?flow=xtls-rprx-vision&pbk=Pyn-CZrKJEIoM7mcj__Eosc4F03CpqvwRZEqlJzqOnQ&security=reality&sid=e6df8954df22&sni=www.ya.ru#%F0%9F%87%B8%F0%9F%87%AA%20%E7%91%9E%E5%85%B8%2010
+vless://22fc4701-8c86-4d4f-a858-8f5921d83977@51.250.41.20:443?security=reality&encryption=none&pbk=Wo4XW_RPWDMoOvLYVpm3xaELpl6m8-pDQKR6fIg91VQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=a6a75cbb895d3446#canfingV2rayNG-83
+vless://aef7716a-d0a5-4a85-9cb0-fda41d9f34b0@62.133.60.206:2040?encryption=none&fp=chrome&pbk=b6DZwkKAeXf3wjXrL6iV6dTt1Crpv2o88LRDJRgFglE&security=reality&sid=b589db8f02882bae&sni=eh.vk.com&type=tcp#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
