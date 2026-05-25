@@ -1,6 +1,6 @@
 #profile-update-interval: 1
 #profile-title: karoshi ≽^•⩊•^≼
-#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAwNzo0NCB8IDI1LjA1LjIwMjYgKEdNVCszKQ==
+#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAwODo0NCB8IDI1LjA1LjIwMjYgKEdNVCszKQ==
 
 vless://b069a958-5dd4-4223-8caf-397b487c0e86@51.250.117.172:443?encryption=none&type=xhttp&security=reality&mode=auto&extra=null&fp=qq&sni=api-maps.yandex.ru&pbk=TnQwYOH2ATi0bTu3gnqVFDnEkvBYIcvNRGLPW0IpjXE#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
 vless://7c4594be-308b-4062-8652-0cc8c1a4eaf4@158.160.150.233:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=65c7748be8&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%5B%2ACIDR%5D%20YA
