@@ -1,6 +1,6 @@
 #profile-update-interval: 1
 #profile-title: karoshi ≽^•⩊•^≼
-#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAxNDo0NCB8IDI2LjA1LjIwMjYgKEdNVCszKQ==
+#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAxNTo0NCB8IDI2LjA1LjIwMjYgKEdNVCszKQ==
 
 vless://fac0b34d-19c9-5fd4-854f-2dfa5c85d77b@158.160.234.85:443?encryption=none&security=reality&sni=ads.x5.ru&fp=chrome&pbk=qpS3_8-jvAX1XeV2-czfn16IO78N1m_zaoCPqrSU-zM&sid=0c246438&mux=true&packetEncoding=xudp#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
 vless://fac0b34d-19c9-5fd4-854f-2dfa5c85d77b@51.250.3.73:443?encryption=none&security=reality&sni=ads.x5.ru&fp=chrome&pbk=QapbUJT61NbhceZHd1X5ylScWQpkHOEkUZ5VG6p53w4&sid=ed1fd4c7&mux=true&packetEncoding=xudp#%F0%9F%87%AC%F0%9F%87%B7%20Greece%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
