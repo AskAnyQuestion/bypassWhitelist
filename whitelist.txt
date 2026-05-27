@@ -1,6 +1,6 @@
 #profile-update-interval: 1
 #profile-title: karoshi ≽^•⩊•^≼
-#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAwNzo0NCB8IDI3LjA1LjIwMjYgKEdNVCszKQ==
+#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAwODo0NCB8IDI3LjA1LjIwMjYgKEdNVCszKQ==
 
 vless://246ec801-282d-413d-9c8e-b6116c892a1c@83.166.238.232:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ads.x5.ru&fp=qq&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&sid=6a608eaf9117&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
 vless://cc9ab0be-eb68-4d69-9ef0-7ad6f880b897@130.193.41.117:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=max.ru&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=8ba12e75110b7a9c#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%5B%2ACIDR%5D%20YA
