@@ -1,6 +1,6 @@
 #profile-update-interval: 1
 #profile-title: karoshi ≽^•⩊•^≼
-#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAxMDo0NCB8IDI3LjA1LjIwMjYgKEdNVCszKQ==
+#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAxMTo0NCB8IDI3LjA1LjIwMjYgKEdNVCszKQ==
 
 vless://f9462153-474c-4148-bff4-cdbe6d3807be@46.243.234.197:8443?mode=gun&security=reality&encryption=none&authority=&echfq=none&pbk=xaCeAr_3ySiXpOLoC2TWPJdkL00Mq_Hbj08ebKZOnW4&fp=chrome&allowinsecure=0&type=grpc&serviceName=&sni=5post-gate.x5.ru&sid=846229eb47b3a5c9#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20CDN
 vless://c2907539-dfef-467f-8c54-e30ba1af6a03@158.160.130.173:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
