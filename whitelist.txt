@@ -1,6 +1,6 @@
 #profile-update-interval: 1
 #profile-title: karoshi ≽^•⩊•^≼
-#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAxMDo0NCB8IDI4LjA1LjIwMjYgKEdNVCszKQ==
+#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAxMTo0NCB8IDI4LjA1LjIwMjYgKEdNVCszKQ==
 
 vless://725fe80b-0380-4f2e-9403-dabbc69e856e@158.160.249.158:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=d995792afeb193#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%5B%2ACIDR%5D%20YA
 vless://4323948c-4e39-46e2-a92f-2fe6766866c8@v.qwerz.space:443?flow=xtls-rprx-vision&fp=chrome&headertype=none&pbk=Mg0PvVj9PyzfrF50i7YG2SrR7Jk_QHh0FTlNle-tTVY&security=reality&sid=b21d20439e49&sni=yandex.ru&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20VK
