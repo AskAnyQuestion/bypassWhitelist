@@ -1,6 +1,6 @@
 #profile-update-interval: 1
 #profile-title: karoshi ≽^•⩊•^≼
-#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAxMTo0NCB8IDI5LjA1LjIwMjYgKEdNVCszKQ==
+#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAxMjo0NCB8IDI5LjA1LjIwMjYgKEdNVCszKQ==
 
 vless://4accc4fb-9ec3-41ae-ac3e-cc5d3dabe156@89.208.86.144:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=id.vk.ru&pbk=blt86EDqS_cqja46UZeRHIJPyB4WrlDWNEQJ3gRfFHQ&sid=c9772947f56764a9#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
 vless://4accc4fb-9ec3-41ae-ac3e-cc5d3dabe156@cdn1.cloud-vk.com:443?security=reality&encryption=none&pbk=blt86EDqS_cqja46UZeRHIJPyB4WrlDWNEQJ3gRfFHQ&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=id.vk.ru&sid=c9772947f56764a9#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
