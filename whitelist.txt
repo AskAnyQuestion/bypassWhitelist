@@ -1,6 +1,6 @@
 #profile-update-interval: 1
 #profile-title: karoshi ≽^•⩊•^≼
-#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAwMDo0NCB8IDMwLjA1LjIwMjYgKEdNVCszKQ==
+#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAwMTo0NCB8IDMwLjA1LjIwMjYgKEdNVCszKQ==
 
 vless://9beef3b2-5749-4529-a91a-29af1c043d6b@ru5.cleanersaz.help:7443?encryption=none&security=tls&sni=ru5.cleanersaz.help&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
 vless://eb3fe4a6-831c-5153-9493-5d97b28276f7@51.250.106.197:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=gLwECcibrJ-wErHzfYbPzMDVu6960VNuXUhjOQ3rUQk#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20YA
