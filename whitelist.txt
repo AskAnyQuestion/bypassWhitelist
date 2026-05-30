@@ -1,6 +1,6 @@
 #profile-update-interval: 1
 #profile-title: karoshi ≽^•⩊•^≼
-#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAwMzo0NCB8IDMwLjA1LjIwMjYgKEdNVCszKQ==
+#announce: base64:0J/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAwNDo0NCB8IDMwLjA1LjIwMjYgKEdNVCszKQ==
 
 vless://56470441-5d85-4266-89f3-c2b5b000c522@128.75.228.189:443?encryption=none&type=xhttp&security=tls&host=ftatx5g6dt.cdn.twcstorage.ru&path=%2F&extra=null&fp=chrome&sni=ftatx5g6dt.cdn.twcstorage.ru&alpn=h2%2Chttp%2F1.1#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%5B%2ACIDR%5D%20Beeline
 vless://56470441-5d85-4266-89f3-c2b5b000c522@128.75.228.189:443?encryption=none&type=xhttp&security=tls&host=ftatx5g6dt.cdn.twcstorage.ru&path=/&extra=null&fp=chrome&sni=ftatx5g6dt.cdn.twcstorage.ru#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%5B%2ACIDR%5D%20Beeline
